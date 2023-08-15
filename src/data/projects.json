@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "Acervo",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://acervonet.com.br",
+    "tags": ["UI", "UX", "Development", "WordPress"]
+  },
+  {
+    "id": "2",
+    "title": "Bettina Moritz Institute",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://bettinamoritz.com.br",
+    "tags": ["UI", "UX", "Development", "WordPress"]
+  },
+  {
+    "id": "3",
+    "title": "Guga Kuerten School",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://escolaguga.com.br",
+    "tags": ["UI", "UX", "Development", "WordPress"]
+  },
+  {
+    "id": "4",
+    "title": "Kauffer Pilates",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://kaufferpilates.com.br",
+    "tags": ["UI", "UX", "Development", "WordPress"]
+  },
+  {
+    "id": "5",
+    "title": "Qualyvist",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://qualyvist.com.br",
+    "tags": ["UI", "UX", "Development", "WordPress"]
+  },
+  {
+    "id": "6",
+    "title": "Solare Properties",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://solareimoveis.com.br",
+    "tags": ["UI", "UX", "Development", "WordPress"]
+  },
+  {
+    "id": "7",
+    "title": "Coffee++",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://coffemais.com",
+    "tags": ["Development", "Support", "Shopify"]
+  },
+  {
+    "id": "8",
+    "title": "Care Natural Beauty",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://carenb.com",
+    "tags": ["Development", "Support", "Shopify"]
+  },
+  {
+    "id": "9",
+    "title": "Coffee++ Blog",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://blog.coffeemais.com",
+    "tags": ["Elementor", "WordPress"]
+  },
+  {
+    "id": "10",
+    "title": "Roseli Stefane Psychologist",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://blog.coffeemais.com",
+    "tags": ["Elementor", "Support", "WordPress"]
+  },
+  {
+    "id": "11",
+    "title": "Rusty Brasil",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://rusty.com.br",
+    "tags": ["Development", "Support", "Shopify"]
+  },
+  {
+    "id": "12",
+    "title": "Peguei Bode",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://pegueibode.com.br",
+    "tags": ["Development", "Support", "Shopify"]
+  },
+  {
+    "id": "13",
+    "title": "Aludra Brand",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://www.aludrabrand.com.br",
+    "tags": ["Development", "Shopify"]
+  },
+  {
+    "id": "14",
+    "title": "Vissla Brasil",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://www.vissla.com.br",
+    "tags": ["Development", "Support", "Shopify"]
+  },
+  {
+    "id": "15",
+    "title": "Kariston Stefane",
+    "description": "lorem ipsum dolor sit amet",
+    "link": "https://kariston.dev",
+    "tags": ["UI", "UX", "Development", "React", "Next.js"]
+  }
+]
